@@ -45,8 +45,8 @@
       "jsx"
     ]
   },
-  "repository": "https://github.com/HashemKhalifa/webpack-react-boilerplate",
-  "author": "HashemKhalifa",
+  "repository": "https://github.com/flavioespinoza/webpack-react-boilerplate",
+  "author": "flavioespinoza",
   "license": "ISC",
   "private": false,
   "engines": {
